@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiTool", "MultiTool\MultiTool.csproj", "{9B2F93AC-8DEE-456F-82B8-BECECE6C03EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B2F93AC-8DEE-456F-82B8-BECECE6C03EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2F93AC-8DEE-456F-82B8-BECECE6C03EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2F93AC-8DEE-456F-82B8-BECECE6C03EC}.Debug|x64.ActiveCfg = Debug|x64
+		{9B2F93AC-8DEE-456F-82B8-BECECE6C03EC}.Debug|x64.Build.0 = Debug|x64
+		{9B2F93AC-8DEE-456F-82B8-BECECE6C03EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2F93AC-8DEE-456F-82B8-BECECE6C03EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B2F93AC-8DEE-456F-82B8-BECECE6C03EC}.Release|x64.ActiveCfg = Release|x64
+		{9B2F93AC-8DEE-456F-82B8-BECECE6C03EC}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B17E046-3653-40E6-AA37-E2BDBFE13DF6}
+	EndGlobalSection
+EndGlobal
